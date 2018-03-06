@@ -3,10 +3,10 @@
 #------------------------------------------------------------
 
 # Which carpentry is this ("swc", "dc", or "lc")?
-carpentry: "lc"
+carpentry: "swc"
 
 # Overall title for pages.
-title: "Library Carpentry Introduction Workshop"
+title: "Software Carpentry Introduction Workshop"
 
 # Contact email address.
 email: lessons@software-carpentry.org
